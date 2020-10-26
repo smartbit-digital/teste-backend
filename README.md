@@ -1,8 +1,8 @@
 # Teste BackEnd SmartBit
 
-Olá dev! Esse é o teste usado por nós aqui da SmartBit para avalidar nossos candidatos. Estamos sempre em buscas de profissionais interessados em aprender e se desenvolver.
+Olá dev! Esse é o teste usado por nós aqui da SmartBit para avaliar nossos candidatos. Estamos sempre em busca de profissionais interessados em aprender e se desenvolver.
 
-Esse teste nos aplicatamos para todos nossos candidatos desde os Júniores até os Sêniores, mudando somente nosso critério de avaliação. Você também não é obrigado a fazer o mesmo completamente, iremos avaliar até onde você foi.
+Esse teste nós aplicamos para todos nossos candidatos, desde os Júniores até os Sêniores, mudando somente nosso critério de avaliação. Você também não é obrigado a fazer o mesmo completamente, iremos avaliar até onde você foi.
 
 ##  Desafio
 
@@ -42,5 +42,5 @@ Após esses fluxos, criar também uma forma de autenticação para o treinador e
 
 ## Instruções
 
-- Inicie um repositório, case seja privado, convide danilomartinelli429@gmail.com como maintainer;
-- Mande um email para stephanie.rocha@smartbit.digital com o assunto: Teste Front-End e no corpo, seu nome completo e o link para o repositório.
+- Inicie um repositório, caso seja privado, convide danilomartinelli429@gmail.com como maintainer;
+- Mande um email para stephanie.rocha@smartbit.digital com o assunto: Teste Back-End e no corpo, seu nome completo e o link para o repositório.
